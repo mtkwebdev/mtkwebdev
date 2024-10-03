@@ -1,3 +1,7 @@
+Hi there, thanks for visiting my github!
+
+Please note: This github is for side projects and learning only. Freelancing and Professional work won't necessarily be found here. (i.e. some work may be in a private azure git repo).
+
 <!-- ### Hi there 👋
 
 Github Stats
